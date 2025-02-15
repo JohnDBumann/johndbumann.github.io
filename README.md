@@ -1,3 +1,5 @@
+![Profile Picture](assets/profile.jpg){: style="border-radius: 50%; width: 150px;" }
+
 # John Bumann  
 **Cybersecurity Student**  
 Pensacola, FL  

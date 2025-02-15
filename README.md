@@ -1,5 +1,5 @@
-  **Cybersecurity Student**  
-Pensacola, FL  
+# Cybersecurity Student<br><span style="color:#0066cc; font-size:smaller;"> University of West Florida </span><br><span style="font-size:15px;">Pensacola, Fl</span>
+
 
 <a href="https://github.com/JohnDBumann/johndbumann.github.io/blob/main/assets/Resume.pdf" style="display: inline-block; padding: 8px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none; margin-top: 10px;">Download Resume</a>  
 

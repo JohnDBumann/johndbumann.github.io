@@ -1,4 +1,6 @@
-  **Cybersecurity Student**  
+![Profile Picture](assets/profile.png)
+  
+**Cybersecurity Student**  
 Pensacola, FL  
 
 [Download Resume](assets\Resume.pdf)  

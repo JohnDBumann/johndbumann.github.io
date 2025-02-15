@@ -1,9 +1,7 @@
-![Profile Picture](assets/profile.png)
-  
-**Cybersecurity Student**  
+  **Cybersecurity Student**  
 Pensacola, FL  
 
-[Download Resume](assets\Resume.pdf)  
+<a href="https://github.com/JohnDBumann/johndbumann.github.io/blob/main/assets/Resume.pdf" style="display: inline-block; padding: 8px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none; margin-top: 10px;">Download Resume</a>  
 
 ## Technical Skills
 - Networking

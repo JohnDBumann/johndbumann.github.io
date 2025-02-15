@@ -4,7 +4,7 @@
 **Cybersecurity Student**  
 Pensacola, FL  
 
-[Download Resume](assets/resume.pdf)  
+[Download Resume](assets\Resume.pdf)  
 
 ## Technical Skills
 - Networking

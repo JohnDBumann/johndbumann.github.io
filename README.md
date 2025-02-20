@@ -29,4 +29,23 @@
 - Assisted customers with safety and usage of VR technology.
 
 ## Projects
-(Coming soon...)
+
+### JtR++: Modular Password Autiting Tool
+A versatile password security testing tool designed for ethical hacking and penetration testing. Includes custom attack modules, automated workflows, and real-time analysis.
+
+<button onclick="toggleDemo()" style="display: inline-block; padding: 8px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none; border: none; cursor: pointer;">View Demo</button>
+
+<div id="demoContainer" style="display: none; margin-top: 15px;">
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQzss70WGCsahhDrMihTjBaKzjpbZCKUXqTnwqKWogIhOmf5fgN8bdUWO2FZihhXBtXMKu5IXvIYcQg/pub?embedded=true" width="100%" height="600px"></iframe>
+</div>
+
+<script>
+    function toggleDemo() {
+        var demo = document.getElementById("demoContainer");
+        if (demo.style.display === "none") {
+            demo.style.display = "block";
+        } else {
+            demo.style.display = "none";
+        }
+    }
+</script>

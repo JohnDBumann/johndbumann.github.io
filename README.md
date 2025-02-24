@@ -17,14 +17,18 @@
 
 ## Work Experience
 ### Sales Store Checker @ Defense Commissary Agency, Pensacola, FL _(Feb 2024 - Jan 2025)_
-- Managed four self-checkout kiosks, troubleshooting issues and reducing downtime.  
-- Verified military personnel credentials at the ID desk, ensuring secure facility access.  
-- Prepared detailed financial reports, improving cash handling accuracy. 
+- Managed and maintained four self-checkout kiosks, ensuring system uptime and assisting customers.
+- Verified military personnel credentials at the ID desk, maintaining secure facility access.
+- Reviewed and prepared detailed financial reports to ensure cash handling accuracy.
+- Resolved transactional issues, improving customer service efficiency.
 
 ### VR Ambassador @ Vr Adventure Zone, Pensacola, FL _(Jan 2023 - Feb 2024)_
-- Maintained and calibrated VR equipment, reducing customer-reported issues.  
-- Provided technical support, resolving software and hardware problems.  
-- Trained customers on VR safety and operation, enhancing overall user experience.  
+- Maintained and calibrated VR and computer systems to enhance user experience.
+- Diagnosed and resolved technical issues, improving troubleshooting speed.
+- Trained customers on VR safety and proper usage, leading to better customer satisfaction.
+
+## Previous Roles
+- Customer Service & Cash Handling Experience (Domino’s, Publix, 2020-2022)
 
 ## Projects
 

@@ -22,7 +22,7 @@
 - Prepared detailed financial reports, improving cash handling accuracy. 
 
 ### VR Ambassador @ Vr Adventure Zone, Pensacola, FL _(Jan 2023 - Feb 2024)_
-- Maintained and calibrated VR equipment, reducing customer-reported issues by X%.  
+- Maintained and calibrated VR equipment, reducing customer-reported issues.  
 - Provided technical support, resolving software and hardware problems.  
 - Trained customers on VR safety and operation, enhancing overall user experience.  
 

@@ -14,7 +14,7 @@
   University of West Florida, Pensacola, FL _(Expected May 2027)_  
 - **Associate of Arts in Computer Science**  
   Pensacola State College, Pensacola, FL _(May 2024)_
-  **Associate of Science in Health Information Technology**
+- **Associate of Science in Health Information Technology**
   Pensacola State College, Pendacola, Fl _(Expected May 2027)_
 
 ## Work Experience
